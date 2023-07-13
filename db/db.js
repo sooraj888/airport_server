@@ -1,5 +1,5 @@
 const uri =
-  "mongodb+srv://soorajsagar888:12345678S@cluster0.3sugc8e.mongodb.net/?retryWrites=true&w=majority";
+  "mongodb+srv://soorajsagar888:12345678S@cluster0.3sugc8e.mongodb.net/users?retryWrites=true&w=majority";
 const mongoose = require("mongoose");
 
 const start = async () => {
